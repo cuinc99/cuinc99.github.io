@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cuinc99.github.io/sitemap-index.xml
